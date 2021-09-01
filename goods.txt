@@ -1,0 +1,10 @@
+Mouse
+Keyboard
+Laptop
+Folder
+Bag
+Hard drive
+Application
+Database
+CPU(central processing unit)
+Computer
